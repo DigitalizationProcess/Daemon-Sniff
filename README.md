@@ -13,7 +13,7 @@ Service that collects statistics about network traffic.
 	
 	c. start [iFace]- start Daemon to collect statistics for [iFace] interface
 	
-	d. 		- start command line interface
+	d. empty 	- start command line interface
 	
 6. The cli support commands:
 
