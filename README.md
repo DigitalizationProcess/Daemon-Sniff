@@ -8,8 +8,11 @@ Service that collects statistics about network traffic.
 5. The Daemon support command at start:
 
 	a. -- help 	- show usage information and available interfaces
+	
 	b. start	- start Daemon to collect statistics for all available interfaces
+	
 	c. start [iFace]- start Daemon to collect statistics for [iFace] interface
+	
 	d. 		- start command line interface
 	
 6. The cli support commands:
